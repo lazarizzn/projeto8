@@ -20,25 +20,40 @@ body{
 }
 
 .login{
-    display: flex;
     width: 641px;
     height: 835px;
     border-radius: 40px;
+    margin: -865px 0px 0px 150px;
     background-color: #FFFFFF4D;
     
 
 }
+.titulo{
+    padding: 120px 415px 10px 121px;
+}
 .logo{
     font-size: 24px;
-    text-align: center;
-    display: flex;
-    background-color: red;
-    width: 105px;
-    height: 29px;
-    margin: 120px 0px 0px 120px;
+    color: #F25019;
+    
 }
-.titulo{
-    text-align: center;
-    margin: 162px;
+.titulo-1{
+    color:  #2A1E17;
     font-size: 38px;
+}
+.lista-geral{
+    list-style: none;
+    padding: 0 0 0 120px;
+}
+
+.lista{
+    color: #636162;
+    padding-top: 30px;
+}
+.texto{
+    width: 400px;
+    height: 50px;
+    border-radius: 5px;
+    border: 0px;
+
+
 }
