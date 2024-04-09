@@ -15,8 +15,10 @@ body{
     width: 50%;
 
 }
+
 .esquerda{
     width: 50%;
+
 }
 
 .login{
@@ -54,6 +56,62 @@ body{
     height: 50px;
     border-radius: 5px;
     border: 0px;
+}
+.senha{
+    padding: 0 0 0 121px;
+    margin-top: 20px;
+    font-size: 12px;
+}
+.btn{
+    display: flex;
+    padding: 0 0 0 121px;
+}
+.btnf{
+    width: 400px;
+    height: 50px;
+    background-color: #F25019;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 42px;
+    border: 0px;
+}
+.divisor{
+    font-size: 14px;
+    align-items: center;
+    padding: 0 0 0 270px;
+    margin-top: 45px;
+
+}
+.btn-social{
+    padding: 0 0 0 121px;
+    column-gap: 11px;
+}
+.bloco{
+    width: 125px;
+    height: 50px;
+    background-color:#FFFFFF;
+    border: 0px;
+    border-radius: 40px;
+    margin-top: 28px;
+}
+.textf{
+    display: flex;
+    margin-top: 32px;
+    padding: 0 0 0 159px;
+    column-gap: 11px;
+}
+.mandala{
+    margin-top: 80px;
+    width: 960px;
+    height: 960px;
+    margin-left: -200px;
+    background-image: url(/img/mandala.png);
+}
+.passaro{
+    width: 703.72px;
+    height: 703.72px;
+    margin-top: -7000px;
 
 
 }
